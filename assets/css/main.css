@@ -1308,7 +1308,7 @@ input, select, textarea {
 			object-position: center;
 			border-radius: 50%;
 			display: block;
-			transform: translateY(-12px);
+			transform: translateY(-8px);
 		}
 
 		#header .content {
